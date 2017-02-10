@@ -1,0 +1,1 @@
+I prefer nano text editor. Navigating through EMACS seems complicated so far. 

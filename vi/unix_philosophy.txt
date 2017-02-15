@@ -1,4 +1,4 @@
-Hello WorldThe Unix Philosophy
+x Philosophy
 From The Unix Programming Environment (1984) by Brian Kernighan and Rob Pike
 Even Though the Unix system introduces a number of innovated programs and techni
 ques, no single program or idea makes it work well. Instead, what makes it effec
@@ -8,4 +8,14 @@ e idea that the power of a system comes more from the relationships among progra
 ms than from the programs themselves. Many UNIX programs do quite trivial things
  in isolation, but, combined with other programs, become general and useful tool
 s.
+
+
+
+
+
+
+
+
+
+
 
